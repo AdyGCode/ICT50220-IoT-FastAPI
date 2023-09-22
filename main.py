@@ -5,7 +5,6 @@
 # https://realpython.com/python-type-checking/
 
 
-
 from typing import Optional
 
 from fastapi import FastAPI
